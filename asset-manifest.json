@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/medical-info/static/css/main.87cd4fea.css",
+    "main.js": "/medical-info/static/js/main.d18673d7.js",
+    "static/js/787.cdd9ed82.chunk.js": "/medical-info/static/js/787.cdd9ed82.chunk.js",
+    "index.html": "/medical-info/index.html",
+    "static/media/user-regular.svg": "/medical-info/static/media/user-regular.0f4ab37541822f78c86601b45a6b0246.svg",
+    "main.87cd4fea.css.map": "/medical-info/static/css/main.87cd4fea.css.map",
+    "main.d18673d7.js.map": "/medical-info/static/js/main.d18673d7.js.map",
+    "787.cdd9ed82.chunk.js.map": "/medical-info/static/js/787.cdd9ed82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87cd4fea.css",
+    "static/js/main.d18673d7.js"
+  ]
+}
